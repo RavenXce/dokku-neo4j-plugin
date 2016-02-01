@@ -8,7 +8,7 @@ Fork of https://github.com/dokku/dokku-redis
 
 ## installation
 ```
-sudo dokku plugin:install https://github.com/creativecodingos/dokku-neo4j-plugin.git
+sudo dokku plugin:install https://github.com/RavenXce/dokku-neo4j-plugin.git
 ```
 
 
